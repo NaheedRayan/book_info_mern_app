@@ -1,0 +1,93 @@
+[
+    {
+      "title": "To Kill a Mockingbird",
+      "isbn": "9780061120084",
+      "author": "Harper Lee",
+      "description": "A powerful story of racial injustice and moral growth in the American South.",
+      "published_date": "1960-07-11",
+      "publisher": "J.B. Lippincott & Co.",
+      "updated_date": "2023-10-29T13:45:00.123Z"
+    },
+    {
+      "title": "1984",
+      "isbn": "9780451524935",
+      "author": "George Orwell",
+      "description": "A dystopian novel depicting a totalitarian regime and the struggle for freedom.",
+      "published_date": "1949-06-08",
+      "publisher": "Secker & Warburg",
+      "updated_date": "2023-10-29T14:15:30.456Z"
+    },
+    {
+      "title": "The Great Gatsby",
+      "isbn": "9780743273565",
+      "author": "F. Scott Fitzgerald",
+      "description": "A tale of wealth, love, and the American Dream in the Roaring Twenties.",
+      "published_date": "1925-04-10",
+      "publisher": "Charles Scribner's Sons",
+      "updated_date": "2023-10-29T14:45:45.789Z"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "isbn": "9780486284736",
+      "author": "Jane Austen",
+      "description": "A classic novel exploring love, marriage, and social class in 19th-century England.",
+      "published_date": "1813-01-28",
+      "publisher": "T. Egerton, Whitehall",
+      "updated_date": "2023-10-29T15:15:00.123Z"
+    },
+    {
+      "title": "Moby-Dick",
+      "isbn": "9780142437247",
+      "author": "Herman Melville",
+      "description": "An epic tale of obsession and revenge set against the backdrop of whaling.",
+      "published_date": "1851-10-18",
+      "publisher": "Richard Bentley",
+      "updated_date": "2023-10-29T15:45:15.456Z"
+    },
+    {
+      "title": "The Lord of the Rings",
+      "isbn": "9780618645619",
+      "author": "J.R.R. Tolkien",
+      "description": "A high fantasy trilogy chronicling the quest to destroy a powerful ring.",
+      "published_date": "1954-07-29",
+      "publisher": "George Allen & Unwin",
+      "updated_date": "2023-10-29T16:15:30.789Z"
+    },
+    {
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "isbn": "9780345391803",
+      "author": "Douglas Adams",
+      "description": "A comedic science fiction series following the misadventures of an unwitting human.",
+      "published_date": "1979-10-12",
+      "publisher": "Pan Books",
+      "updated_date": "2023-10-29T16:45:45.123Z"
+    },
+    {
+      "title": "Brave New World",
+      "isbn": "9780060850524",
+      "author": "Aldous Huxley",
+      "description": "A dystopian novel exploring a society controlled by pleasure and conformity.",
+      "published_date": "1932-10-27",
+      "publisher": "Chatto & Windus",
+      "updated_date": "2023-10-29T17:15:00.456Z"
+    },
+    {
+      "title": "The Alchemist",
+      "isbn": "9780061122415",
+      "author": "Paulo Coelho",
+      "description": "A philosophical novel about following one's dreams and destiny.",
+      "published_date": "1988-01-01",
+      "publisher": "HarperOne",
+      "updated_date": "2023-10-29T17:45:15.789Z"
+    },
+    {
+      "title": "The Da Vinci Code",
+      "isbn": "9780307474278",
+      "author": "Dan Brown",
+      "description": "A gripping mystery thriller involving art, religion, and conspiracy.",
+      "published_date": "2003-03-18",
+      "publisher": "Doubleday",
+      "updated_date": "2023-10-29T18:15:30.123Z"
+    }
+]
+  

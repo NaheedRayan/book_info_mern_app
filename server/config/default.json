@@ -1,0 +1,5 @@
+
+{
+    "mongoURI":
+      "mongodb+srv://naheed:test1234@cluster0.gohnivn.mongodb.net/book_info?retryWrites=true&w=majority"
+}
