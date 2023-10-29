@@ -3,17 +3,19 @@ const cors = require('cors');
 
 const app = express();
 
+// some addition settings
+app.use(cors({ origin: true, credentials: true }));
+app.use(express.json({ extended: false }));
+
+
 const books = require('./routes/api/books');
-app.use('/api/v1/books', books); // adding version info is a good practice
+app.use('/api/books', books); // adding version info is a good practice
 
 
 // Connect Database
 const connectDB = require('./config/db');
 connectDB();
 
-// some addition settings
-app.use(cors({ origin: true, credentials: true }));
-app.use(express.json({ extended: false }));
 
 
 
