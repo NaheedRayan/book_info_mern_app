@@ -1,3 +1,4 @@
+# MERN stack app
 # Getting Started with Book Info app
 
 This repo is all about the MERN stack. 
