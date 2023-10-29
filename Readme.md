@@ -33,9 +33,9 @@ Note: You should change the `default.json` file in the `server->config` director
 
 ## Some Screenshots are given below for your convinence
 
-![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/1.png)
-![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/2.png)
-![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/3.png)
-![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/4.png)
-![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/5.png)
+![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/readme_pictures/1.png)
+![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/readme_pictures/2.png)
+![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/readme_pictures/3.png)
+![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/readme_pictures/4.png)
+![Alt text](https://github.com/NaheedRayan/book_info_mern_app/blob/main/readme_pictures/5.png)
 
